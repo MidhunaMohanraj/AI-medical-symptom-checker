@@ -4,7 +4,7 @@ Enter symptoms → Get possible conditions, urgency level, specialist recommenda
 Uses rule-based triage + Gemini AI (free) for detailed analysis
 DISCLAIMER: For educational purposes only. Not a substitute for professional medical advice.
 """
-
+   
 import streamlit as st
 import google.generativeai as genai
 import json
